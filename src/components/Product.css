@@ -22,3 +22,7 @@
 .container a {
   text-decoration: none;
 }
+
+.toolbar-title-md {
+  font-size: 0.8rem !important;
+}
